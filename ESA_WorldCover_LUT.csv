@@ -1,0 +1,13 @@
+system:index,Value,ManningsN,Name,.geo
+0,0,0.03,NoData,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,10,0.12,Tree Cover,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,20,0.07,Shrubland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,30,0.04,Grassland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,40,0.05,Cropland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,50,0.1,Built-up,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,60,0.03,Bare / Sparse Vegetation,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,70,0.03,Snow and Ice,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,80,0.025,Permanent Water Bodies,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,90,0.055,Herbaceous Wetland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+10,95,0.1,Mangroves,"{""type"":""MultiPoint"",""coordinates"":[]}"
+11,100,0.06,Moss and Lichen,"{""type"":""MultiPoint"",""coordinates"":[]}"
